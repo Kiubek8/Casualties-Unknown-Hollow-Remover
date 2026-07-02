@@ -1,6 +1,9 @@
-HOW TO USE
-in powershell/cmd, after replacing YOUR_USERNAME, run:
+NOTE: THE DESIRED DIRECTORY MAY BE IN C:\Users\YOUR_USERNAME\AppData\Local\Orsoniks\CasualtiesUnknown NOT C:\Users\YOUR_USERNAME\AppData\LocalLow\Orsoniks\CasualtiesUnknown
 
+HOW TO USE
+place the RemoveHollow.py file in your C:\Users\YOUR_USERNAME\AppData\LocalLow\Orsoniks\CasualtiesUnknown directory
+
+in powershell/cmd, after replacing YOUR_USERNAME, run:
 cd C:\Users\YOUR_USERNAME\AppData\LocalLow\Orsoniks\CasualtiesUnknown
 py RemoveHollow.py
 
